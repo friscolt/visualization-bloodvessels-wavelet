@@ -14,11 +14,18 @@ Results show that a Wavelet Approach improves the visualization of blood vessels
 
 ## Contents
 
+* [`f_WA.m`](https://github.com/friscolt/elsevier-wavelet/blob/main/f_WA.m) -  Matlab script. The script  `f_WA.m` contains **1 main function (`f_WA`) and 8 auxiliary functions (`f_skavg`, `f_denoising`, `f_energy`,`f_thresholding`,`f_resize`,`f_segmenting`,`f_ratio`,`f_improving`)** to implement the methods described in [this paper](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf). 
 
+* [`data.mat`](https://github.com/friscolt/elsevier-wavelet/blob/main/data.mat) - MAT file. It contains three variables. 
+  *  `im_raw`, contains a package of 30 *in-vitro* speckle images of a bifurcated vessel at a depth of 0µm. The image is a 288x280x30 pixels.
+  *  `im_gt`, contains the ground truth of the *in-vitro* speckle image of a bifurcated vessel. The image is a 288x280 pixel logical type matrix.
+ 
+* [`demo.mlx`](https://github.com/friscolt/elsevier-wavelet/blob/main/demo.mlx) - Matlab live script. It contains an example of the image processing available in [`data.mat`](https://github.com/friscolt/elsevier-wavelet/blob/main/data.mat). This live script describes step by step the use of the auxiliary functions described in [`f_WA.m`](https://github.com/friscolt/elsevier-wavelet/blob/main/f_WA.m). 
+
+ 
 ## Organization
 
 No additional content directories are declared. 
-
 
 
 ## Contributors
@@ -28,3 +35,14 @@ Code for algorithms, applications and tools contributed by:
 Francisco Javier Lopez-Tiro, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, and Julio Cesar Ramirez-San-Juan
 
 Please email us your comments, criticism, and questions at [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20elsevier-wavelet%20repository)
+
+
+## Reference
+
+If you use functions from this script in your work, please use the BibTex entry below for citation.
+
+[[Paper]](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf)
+
+```
+
+```
