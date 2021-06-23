@@ -32,7 +32,7 @@ No additional content directories are declared.
 
 Code for algorithms, applications and tools contributed by:
 
-Francisco Javier Lopez-Tiro, Hayde Peregrina-Barreto, Jose de Jesus Rangel-Magdaleno, and Julio Cesar Ramirez-San-Juan
+[Francisco Javier Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), [Hayde Peregrina-Barreto](https://scholar.google.es/citations?user=Wh2blp0AAAAJ&hl=es), [Jose de Jesus Rangel-Magdaleno](https://scholar.google.es/citations?user=aBNkfEsAAAAJ&hl=es), and [Julio Cesar Ramirez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es)
 
 Please email us your comments, criticism, and questions at [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20elsevier-wavelet%20repository)
 
