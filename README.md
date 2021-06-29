@@ -8,7 +8,7 @@ The visualization and localization of blood vessels is an important task to dete
 The Wavelet Approach is a model of automatic denoising for contrasted *in-vitro* Raw Speckle images using an energy criterion. The criterion selects the more suitable denoising level from the Discrete Wavelet Transform decomposition using the detail coefficients. Then, the segmentation of low-noise images by mathematical morphology techniques establish the blood vessel and biological tissue location. Finally, the region corresponding to the blood vessel and the low-noise images are used to improve the visualization of blood vessels.
 Results show that a Wavelet Approach improves the visualization of blood vessels up to a depth of 400 µm. Furthermore, the proposed model demonstrates that the automatic denoising criterion improves the localization of superficial (>100 µm) and deep (>100 µm) blood vessels.
 
-[[Paper]](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
 
 ---
 
@@ -41,7 +41,7 @@ Please email us your comments, criticism, and questions at [`francisco.lopez@ina
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[[Paper]](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
 
 ```
 
