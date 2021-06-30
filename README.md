@@ -1,6 +1,6 @@
 # Visualization of Blood Vessels in *in-vitro* Raw Speckle Images Using an Energy-based on DWT Coefficients
 
-This repository has the functions to implement the methods described in the conference article: *Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients*, developed as part of the project *"Visualization and localization of blood vessels"* at [INAOE](https://www.inaoep.mx). 
+This repository has the functions to implement the methods described in the conference article: [*Visualization of Blood Vessels  in in-vitro Raw Speckle Images Using an Energy-based on DWT Coefficients*](https://www.sciencedirect.com/science/article/pii/S1746809421004894), developed as part of the project *"Visualization and localization of blood vessels"* at [INAOE](https://www.inaoep.mx). 
 
 
 ## Abstract
