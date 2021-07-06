@@ -14,7 +14,7 @@ Results show that a Wavelet Approach improves the visualization of blood vessels
 
 ## Contents
 
-* [`f_WA.m`](https://github.com/friscolt/elsevier-wavelet/blob/main/f_WA.m) -  Matlab script. The script  `f_WA.m` contains **1 main function (`f_WA`) and 8 auxiliary functions (`f_skavg`, `f_denoising`, `f_energy`,`f_thresholding`,`f_resize`,`f_segmenting`,`f_ratio`,`f_improving`)** to implement the methods described in [this paper](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf). 
+* [`f_WA.m`](https://github.com/friscolt/elsevier-wavelet/blob/main/f_WA.m) -  Matlab script. The script  `f_WA.m` contains **1 main function (`f_WA`) and 8 auxiliary functions (`f_skavg`, `f_denoising`, `f_energy`, `f_thresholding`, `f_resize`, `f_segmenting`, `f_ratio`, `f_improving`)** to implement the methods described in [this paper](https://github.com/friscolt/elsevier-wavelet/blob/main/preprint.pdf). 
 
 * [`data.mat`](https://github.com/friscolt/elsevier-wavelet/blob/main/data.mat) - MAT file. It contains three variables. 
   *  `im_raw`, contains a package of 30 *in-vitro* speckle images of a bifurcated vessel at a depth of 0µm. The image is a 288x280x30 pixels.
