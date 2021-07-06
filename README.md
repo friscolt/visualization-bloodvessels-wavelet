@@ -44,5 +44,13 @@ If you use functions from this script in your work, please use the BibTex entry 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809421004894)
 
 ```
-
+@article{lopez2021visualization,
+  title={Visualization of blood vessels in in vitro raw speckle images using an energy-based on DWT coefficients},
+  author={Lopez-Tiro, Francisco Javier and Peregrina-Barreto, Hayde and de Jesus Rangel-Magdaleno, Jose and Ramirez-San-Juan, Julio Cesar},
+  journal={Biomedical Signal Processing and Control},
+  volume={69},
+  pages={102892},
+  year={2021},
+  publisher={Elsevier}
+}
 ```
